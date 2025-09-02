@@ -5,4 +5,4 @@ SNP_rsID: Reference SNP (rs) identifier, a unique identifier for each single nuc
 BP_hg38: Base pair position of the SNP in the human genome, based on the GRCh38/hg38 reference genome assembly.
 A1: Effect allele for the SNP.
 A2: Non-effect allele for the SNP.
-Weight_PRScs: SNP weight derived from the PRS-CS (auto) method.
+Weight_PRScs: SNP weight derived from the PRS-CSx (auto) method.
