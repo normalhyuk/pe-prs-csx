@@ -6,7 +6,7 @@ Eun-Saem Choi, MD†, Sang-Hyuk Jung, PhD†, Young Mi Jung, MD, Chan-Wook Park,
 ---
 
 ### Preeclampsia Polygenic risk score (PRS)
-> [prscsx-pe-multi_temp.zip](https://github.com/normalhyuk/pe-prs-csx/blob/main/prs-model/prscsx-pe-multi_temp.zip)
+> [prscsx-pe-multi.zip](https://github.com/normalhyuk/pe-prs-csx/blob/main/prs-model/prscsx-pe-multi.zip)
 
 ## Data Source (GWAS summary statistics)
 To generate enhanced cross-ancestry-based PRS with transferability, the genome-wide association study (GWAS) summary statistics from three worldwide biobanks, including the FinnGen Consortium (n=173,746; EUR), UKBB (n=220,617; EUR), and BioBank Japan (BBJ) (n=82,085; Asian), were used.
